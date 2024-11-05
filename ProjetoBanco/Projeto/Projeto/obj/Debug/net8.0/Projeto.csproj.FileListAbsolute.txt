@@ -1,0 +1,14 @@
+C:\Users\cauaf\OneDrive\Desktop\Cursos\Csharp primeiros passos Lógica de Programação e Algoritmos\ProjetoBanco\Projeto\Projeto\bin\Debug\net8.0\Projeto.exe
+C:\Users\cauaf\OneDrive\Desktop\Cursos\Csharp primeiros passos Lógica de Programação e Algoritmos\ProjetoBanco\Projeto\Projeto\bin\Debug\net8.0\Projeto.deps.json
+C:\Users\cauaf\OneDrive\Desktop\Cursos\Csharp primeiros passos Lógica de Programação e Algoritmos\ProjetoBanco\Projeto\Projeto\bin\Debug\net8.0\Projeto.runtimeconfig.json
+C:\Users\cauaf\OneDrive\Desktop\Cursos\Csharp primeiros passos Lógica de Programação e Algoritmos\ProjetoBanco\Projeto\Projeto\bin\Debug\net8.0\Projeto.dll
+C:\Users\cauaf\OneDrive\Desktop\Cursos\Csharp primeiros passos Lógica de Programação e Algoritmos\ProjetoBanco\Projeto\Projeto\bin\Debug\net8.0\Projeto.pdb
+C:\Users\cauaf\OneDrive\Desktop\Cursos\Csharp primeiros passos Lógica de Programação e Algoritmos\ProjetoBanco\Projeto\Projeto\obj\Debug\net8.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauaf\OneDrive\Desktop\Cursos\Csharp primeiros passos Lógica de Programação e Algoritmos\ProjetoBanco\Projeto\Projeto\obj\Debug\net8.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\cauaf\OneDrive\Desktop\Cursos\Csharp primeiros passos Lógica de Programação e Algoritmos\ProjetoBanco\Projeto\Projeto\obj\Debug\net8.0\Projeto.AssemblyInfo.cs
+C:\Users\cauaf\OneDrive\Desktop\Cursos\Csharp primeiros passos Lógica de Programação e Algoritmos\ProjetoBanco\Projeto\Projeto\obj\Debug\net8.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\cauaf\OneDrive\Desktop\Cursos\Csharp primeiros passos Lógica de Programação e Algoritmos\ProjetoBanco\Projeto\Projeto\obj\Debug\net8.0\Projeto.dll
+C:\Users\cauaf\OneDrive\Desktop\Cursos\Csharp primeiros passos Lógica de Programação e Algoritmos\ProjetoBanco\Projeto\Projeto\obj\Debug\net8.0\refint\Projeto.dll
+C:\Users\cauaf\OneDrive\Desktop\Cursos\Csharp primeiros passos Lógica de Programação e Algoritmos\ProjetoBanco\Projeto\Projeto\obj\Debug\net8.0\Projeto.pdb
+C:\Users\cauaf\OneDrive\Desktop\Cursos\Csharp primeiros passos Lógica de Programação e Algoritmos\ProjetoBanco\Projeto\Projeto\obj\Debug\net8.0\Projeto.genruntimeconfig.cache
+C:\Users\cauaf\OneDrive\Desktop\Cursos\Csharp primeiros passos Lógica de Programação e Algoritmos\ProjetoBanco\Projeto\Projeto\obj\Debug\net8.0\ref\Projeto.dll

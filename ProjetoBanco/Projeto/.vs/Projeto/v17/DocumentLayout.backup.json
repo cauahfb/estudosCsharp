@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cauaf\\OneDrive\\Desktop\\Cursos\\Csharp primeiros passos L\u00F3gica de Programa\u00E7\u00E3o e Algoritmos\\ProjetoBanco\\Projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A28B7210-F12C-4A54-A086-D1E5C9A67910}|Projeto\\Projeto.csproj|c:\\users\\cauaf\\onedrive\\desktop\\cursos\\csharp primeiros passos l\u00F3gica de programa\u00E7\u00E3o e algoritmos\\projetobanco\\projeto\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28B7210-F12C-4A54-A086-D1E5C9A67910}|Projeto\\Projeto.csproj|solutionrelative:projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28B7210-F12C-4A54-A086-D1E5C9A67910}|Projeto\\Projeto.csproj|c:\\users\\cauaf\\onedrive\\desktop\\cursos\\csharp primeiros passos l\u00F3gica de programa\u00E7\u00E3o e algoritmos\\projetobanco\\projeto\\projeto\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28B7210-F12C-4A54-A086-D1E5C9A67910}|Projeto\\Projeto.csproj|solutionrelative:projeto\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\cauaf\\OneDrive\\Desktop\\Cursos\\Csharp primeiros passos L\u00F3gica de Programa\u00E7\u00E3o e Algoritmos\\ProjetoBanco\\Projeto\\Projeto\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Projeto\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\cauaf\\OneDrive\\Desktop\\Cursos\\Csharp primeiros passos L\u00F3gica de Programa\u00E7\u00E3o e Algoritmos\\ProjetoBanco\\Projeto\\Projeto\\ContaBancaria.cs",
+              "RelativeToolTip": "Projeto\\ContaBancaria.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:28:36.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cauaf\\OneDrive\\Desktop\\Cursos\\Csharp primeiros passos L\u00F3gica de Programa\u00E7\u00E3o e Algoritmos\\ProjetoBanco\\Projeto\\Projeto\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto\\Program.cs",
+              "ToolTip": "C:\\Users\\cauaf\\OneDrive\\Desktop\\Cursos\\Csharp primeiros passos L\u00F3gica de Programa\u00E7\u00E3o e Algoritmos\\ProjetoBanco\\Projeto\\Projeto\\Program.cs",
+              "RelativeToolTip": "Projeto\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDoAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:23:00.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
